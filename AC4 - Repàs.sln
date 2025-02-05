@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC4 - Repàs", "AC4 - Repàs\AC4 - Repàs.csproj", "{15EEEFAF-C1E3-4162-9657-B19E7E6AC2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15EEEFAF-C1E3-4162-9657-B19E7E6AC2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15EEEFAF-C1E3-4162-9657-B19E7E6AC2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15EEEFAF-C1E3-4162-9657-B19E7E6AC2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15EEEFAF-C1E3-4162-9657-B19E7E6AC2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F3AA7A-E934-4116-A3B5-9C630C032E2E}
+	EndGlobalSection
+EndGlobal
